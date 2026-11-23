@@ -8,7 +8,7 @@ Problem Statement
 
 Poor adherence to Home Exercise Programs (HEPs), with an estimated 30%–79% of patients discontinuing prescribed exercises after clinical consultations or hospital discharge, remains a major rehabilitation challenge. This is compounded by unclear exercise instructions, limited visual guidance, and inadequate safety information, which can lead to confusion and fear of re-injury. Meanwhile, therapists face significant administrative workloads when creating individualized exercise plans, and caregivers often lack the training and guidance needed to support patients safely, increasing stress and caregiving burden.
 
-Proposed Features
+Key Features
 
 Patient Support
 
@@ -47,6 +47,12 @@ Technologies Used
 Project Status
 
 The website is currently under development.
+
+Design Prototype
+
+Explore the WISAL UI/UX prototype on Figma:
+
+https://www.figma.com/design/JmwaaEMawJk7cbt4soqVpR/WISAL?node-id=1-2&t=UTgMijV8tyh3RdCd-1
 
 ⸻
 
